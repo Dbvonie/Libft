@@ -6,9 +6,11 @@
 /*   By: meel-bar <meel-bar@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/11/10 17:28:44 by meel-bar          #+#    #+#             */
-/*   Updated: 2026/11/10 17:29:40 by meel-bar         ###   ########.fr       */
+/*   Updated: 2026/11/16 19:54:14 by meel-bar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "libft.h"
 
 size_t	ft_strlen(const char *s)
 {
